@@ -3,6 +3,6 @@ Just example
 
 Here I can give some more info
 
-Added even more info
+Added some more info
 
-Again, some more info
+Extra info is added
